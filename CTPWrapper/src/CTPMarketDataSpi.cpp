@@ -1,0 +1,2 @@
+﻿#include "..\header\CTPMarketDataSpi.h"
+
